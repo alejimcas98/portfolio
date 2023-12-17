@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Imagen_Portfolio" data-name="Imagen Portfolio" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46.87 47.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_48);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_15);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_51);
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre_15" data-name="Degradado sin nombre 15" cx="23.44" cy="23.75" fx="23.44" fy="23.75" r="23.59" gradientUnits="userSpaceOnUse">
+      <stop offset=".6" stop-color="#eab41f"/>
+      <stop offset=".69" stop-color="#eab523"/>
+      <stop offset=".78" stop-color="#ebb92f"/>
+      <stop offset=".88" stop-color="#edc044"/>
+      <stop offset=".97" stop-color="#f0ca61"/>
+      <stop offset="1" stop-color="#f1cd6a"/>
+    </radialGradient>
+    <linearGradient id="Degradado_sin_nombre_51" data-name="Degradado sin nombre 51" x1="23.44" y1="16.36" x2="23.44" y2="1.57" gradientUnits="userSpaceOnUse">
+      <stop offset=".6" stop-color="#e9b320" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f8e6b4"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_48" data-name="Degradado sin nombre 48" x1="351.56" y1="-1492.63" x2="351.56" y2="-1507.42" gradientTransform="translate(375 -1461.57) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset=".6" stop-color="#e9b320" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5d4709"/>
+    </linearGradient>
+  </defs>
+  <ellipse class="cls-2" cx="23.44" cy="23.75" rx="23.44" ry="23.75"/>
+  <path class="cls-3" d="m40.09,13.44c0,6.56-7.45,0-16.65,0s-16.65,6.56-16.65,0S14.24,1.57,23.44,1.57s16.65,5.32,16.65,11.88Z"/>
+  <path class="cls-1" d="m6.79,33.97c0-6.56,7.45,0,16.65,0s16.65-6.56,16.65,0-7.45,11.88-16.65,11.88-16.65-5.32-16.65-11.88Z"/>
+</svg>
